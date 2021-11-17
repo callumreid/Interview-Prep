@@ -1,0 +1,20 @@
+{
+  "name": "Interview-Prep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "checkPermutation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/callumreid/Interview-Prep.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/callumreid/Interview-Prep/issues"
+  },
+  "homepage": "https://github.com/callumreid/Interview-Prep#readme"
+}

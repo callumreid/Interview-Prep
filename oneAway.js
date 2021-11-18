@@ -51,6 +51,10 @@ const oneAway = (s1, s2) => {
   if (s1 === s2) {
     return true;
   }
+  // lengths more than 1 apart
+  if (s1.length - s2.length > 1 || s2.length - s1.length > 1) {
+    return false;
+  }
   // same length but not equal
   if (s1.length === s2.length) {
     return replace(s1, s2);
